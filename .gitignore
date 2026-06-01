@@ -5,7 +5,6 @@ data/features/
 *.parquet
 faiss_index/
 mlruns/
-
 # Secrets
 .env
 
