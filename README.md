@@ -1,5 +1,5 @@
 # GridPredict — AI Renewable Energy Analytics Platform
-
+GridPredict forecasts Texas wind and solar generation hour-by-hour, scores grid stress in real time, and lets operators ask natural language questions — all validated against a real hurricane.
 End-to-end renewable energy forecasting platform. Predicts solar & wind generation using XGBoost and Prophet on ERCOT data, computes real-time grid stress scores with ramp-rate alerting, and answers operator queries via a RAG assistant backed by ERCOT reports. Deployed on Streamlit.
 
 ## Architecture
